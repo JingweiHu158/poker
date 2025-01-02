@@ -1,5 +1,4 @@
 # poker
-I can’t directly access your VS Code or the contents of your cloned repository, but I can guide you through how to plan and execute this project effectively. Here’s a structured project plan for building a poker assistant that works on simulated games:
 
 Project Plan: Poker Assistant
 
